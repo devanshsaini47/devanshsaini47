@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devansh Saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **BACKEND**
 
 - 📫 How to reach me **ds142678@gmail.com**
 
